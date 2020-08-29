@@ -1,3 +1,16 @@
 # Proyecto-Final-ASN
-# Hola mundo
-# Prueba
+# Frontend
+Este es el frontend del proyecto de Arquitectura de Soluciones en la Nube.
+
+## Lenguajes
+
+- HTML
+- CSS
+- JS
+- Python
+
+## Herramientas
+
+- VSCode
+- Git
+- AWS
