@@ -1,0 +1,66 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  color: #000 !important;
+  background-color: #f1f1f1 !important;
+}
+
+.columna_izquierda_tamaño {
+  float: left; /* Permite esccribir a la izquierda dentro de la columna*/
+  width: 33.333%;
+}
+
+.margen_columna_información_izq_arriba {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:16px!important
+}
+
+contenedor {
+  position: relative;
+}
+
+información {
+  padding: 0.01em 16px;
+}
+
+largo {
+  font-size: 18px !important;
+}
+
+/* css de los iconos de información */
+
+.color_iconos {
+  color: #2f80ed !important;
+}
+
+.margen_derecha_icono {
+  margin-right: 16px !important;
+}
+
+.tamaño_letra {
+  font-size: 22px !important;
+}
+
+/* css contendor de la informacion datos (mail, otros) */
+.contenedor {
+  padding: 0.01em 16px;
+}
+
+.border_caja {
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.color_contenedor {
+  color: #000 !important;
+  background-color: #fff !important;
+}
